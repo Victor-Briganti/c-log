@@ -2,6 +2,8 @@
 
 A basic log library to be used with C/C++.
 
+![image](https://github.com/user-attachments/assets/b7dda596-6b3e-40a4-b636-2bf806ccaf8a)
+
 ### Usage
 
 This library can be used by simpling placing this files into a project.
